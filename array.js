@@ -18,3 +18,4 @@ console.log(cadastro.nome)
 console.log (cadastro.curso)
 console.log(lista[5])
 console.log(lista)
+
